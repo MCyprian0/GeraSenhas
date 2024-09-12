@@ -1,0 +1,2 @@
+# StrongPasswd
+Generate strong passwords.
